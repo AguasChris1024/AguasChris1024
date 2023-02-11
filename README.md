@@ -31,19 +31,19 @@
     <h3>📋 Languages and tools</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript"
-        width="40" height="40">&nbsp;
+        width="40" height="40">
     </div>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"
-        width="40" height="40">&nbsp;
+        width="40" height="40">
     </div>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular"
-        width="40" height="40">&nbsp;
+        width="40" height="40">
     </div>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="PL/SQL" alt="PL/SQL"
-        width="40" height="40">&nbsp;
+        width="40" height="40">
     </div>
 </div>
 
